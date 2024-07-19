@@ -12,7 +12,19 @@
 </div>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
+## <picture><img src = "https://github.com/fancyydev/fancyydev/blob/main/about_me.gif" width = 50px></picture> **About me**
+
+- Passionate python developer
+- I’m currently learning Web development with Django
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+## Skils
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,mysql,git,github)](https://skillicons.dev)
+
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fregoso-leon/)
 
 
 <!--
