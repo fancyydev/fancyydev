@@ -30,7 +30,8 @@
 ## Projects
 - **Personal Website**: Built a responsive website using Django and Bootstrap featuring blog posts, pagination, and more.
 - **RESTful API for Event App**: Developed user authentication, password recovery, and email notifications in a Django-based API.
-- **Scholar Graph Application**: Implemented algorithms to find optimal paths between buildings on campus.
+- **Scholar Graph Application**: Implemented search algorithms to find optimal paths between buildings on campus.
+- **Rock-Paper-Scissors-Lizard-Spock (RPCSL)**: Developed an interactive game using **Python** and **Tkinter**. The game implements the extended logic of the original game, featuring a prediction system based on a **transition table** that adapts to the player's previous moves.
 - **Inference Engine**: Developed an inference engine for decision-making, utilizing forward chaining and backward chaining algorithms, and limited to using only the "AND" logical operator to validate conclusions.
 
 
